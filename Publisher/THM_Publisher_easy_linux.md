@@ -111,4 +111,5 @@ Got the reverse shell as normal bash shell.
 ![15_shell.png](./_resources/15_shell.png)
 ![16_root.png](./_resources/16_root.png)
 
+Please also see video walkthrough.
 [![Watch the video](https://img.youtube.com/vi/v7__S5J9Vvk/default.jpg)](https://youtu.be/v7__S5J9Vvk)
