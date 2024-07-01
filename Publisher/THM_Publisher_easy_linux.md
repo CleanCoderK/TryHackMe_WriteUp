@@ -1,10 +1,5 @@
 ---
 title: THM_Publisher_easy_linux
-updated: 2024-06-30 11:25:53Z
-created: 2024-06-30 09:12:42Z
-latitude: 48.20817430
-longitude: 16.37381890
-altitude: 0.0000
 ---
 
 # Write-up
